@@ -1,13 +1,13 @@
-## DA401: Hurricane Analysis
+# DA401: Hurricane Analysis
 
 *Author*: Peter Morley
 
 This repository includes all information regarding my DA401 project.
 
-#### Introduction
+## Introduction
 
 
-#### Data
+## Data
 
 
-#### Code
+## Code
