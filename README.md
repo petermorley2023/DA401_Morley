@@ -1,4 +1,4 @@
-# DA401: Hurricane Analysis
+# Hurricanes that have Hit the Caribbean: Time Series & Location Analysis
 
 *Author*: Peter Morley
 
