@@ -42,3 +42,13 @@ This file serves the purpose of file documentation and as a README for the files
 * File Type: Jupyter Notebook (.ipynb)
 * Description: This file contains all the code which I used to manipulate, visualize, and analyze the location data for hurricanes. 
 
+## Important Documents
+1. File Name: Final Paper.pdf
+* File Type: PDF document
+* Description: This file is my research paper which contains all information regarding domain review, methods of analysis, results, and conclusion. 
+
+2. File Name: Executive_Summary.pdf
+* File Type: PDF document
+* Description: This file is my executive summary which summarizes my project as a whole. In other words a one page version of my final paper.
+
+
