@@ -37,10 +37,10 @@ This file serves the purpose of file documentation and as a README for the files
 
 ## Code
 1. File Name: Project_Code.R
-* This file contains all the code which I used to manipulate, visualize, and analyze the wind speed and pressure over time for hurricanes in R. 
+* This file contains all the code which I used in R to manipulate, visualize, and analyze the wind speed and pressure over time for hurricanes. 
 
 2. File Name: Location_Data.ipynb
-* This file contains all the code which I used to manipulate, visualize, and analyze the location data for hurricanes in Jupyter Notebooks/Python3. 
+* This file contains all the code which I used in Jupyter Notebooks/Python3 to manipulate, visualize, and analyze the location data for hurricanes. 
 
 ## Important Documents
 1. File Name: Final Paper.pdf
