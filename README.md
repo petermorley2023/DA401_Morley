@@ -12,31 +12,25 @@ This file serves the purpose of file documentation and as a README for the files
 
 ## Data
 1. File Name: caribbean_hurricanes.csv
-* This file is the filtered-down data that includes all hurricanes that fit my inclusion 
-             criterion (latitude & longitude limits) for the Caribbean. 
+* This file is the filtered-down data that includes all hurricanes that fit my inclusion criterion (latitude & longitude limits) for the Caribbean. 
 
 2. File Name: clean_all_hurricanes.csv
-* This file includes all hurricane data provided by the NOAA that I have cleaned. 
-             This data ranges from 1851 through 2021 and has not been filtered down so all data 
-             is present. 
+* This file includes all hurricane data provided by the NOAA that I have cleaned and collected. This data ranges from 1851 through 2021 and has not been filtered down so all the data is present. 
 
 3. File Name: hurricane_counts.csv
-* This file includes data regarding the total yearly hurricane counts within the 
-             Caribbean (1851 – 2021). 
+* This file includes data regarding the total yearly hurricane counts within the Caribbean (1851 – 2021). This was created through code in the Project_Code.R file so you do not need to download this file unless you want to inspect it.
 
 4. File Name: yearly_pressures.csv
-* This file includes data regarding the average minimum pressure and the minimum 
-             pressure within the Caribbean (1992 – 2021). 
+* This file includes data regarding the average minimum pressure and the minimum pressure within the Caribbean (1992 – 2021). This was created through code in the Project_Code.R file so you do not need to download this file unless you want to inspect it.
 
 5. File Name: yearly_winds.csv
-* This file includes data regarding the average and maximum yearly wind speeds in 
-             knots for the hurricanes within the Caribbean (1992 – 2021). 
+* This file includes data regarding the average and maximum yearly wind speeds in knots for the hurricanes within the Caribbean (1992 – 2021). This was created through code in the Project_Code.R file so you do not need to download this file unless you want to inspect it.
 
 6. NHC Hurricane Reports
 * I decided not to attach all the hurricane reports that I collected data from to this repository since there are a total of 123 reports. Instead you can find the ones that were collected from the following URL, https://www.nhc.noaa.gov/data/tcr/index.php?season=2021&basin=atl. The reports collected were from years 2016 through 2021.
 
 7. Hurricane Data (1851 - 2015)
-* The data that I used for the years listed above was collected from Kaggle and published on that website by the NOAA. The data can be found here: https://www.kaggle.com/datasets/noaa/hurricane-database
+* The data that I used for the years 1851-2015 was found on Kaggle and published there by the NOAA. The data can be found here: https://www.kaggle.com/datasets/noaa/hurricane-database
 
 ## Code
 1. File Name: Project_Code.R
