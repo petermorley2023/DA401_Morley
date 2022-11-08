@@ -35,6 +35,9 @@ This file serves the purpose of file documentation and as a README for the files
 6. NHC Hurricane Reports
 * I decided not to attach all the hurricane reports that I collected data from to this repository since there are a total of 123 reports. Instead you can find the ones that were collected from the following URL, https://www.nhc.noaa.gov/data/tcr/index.php?season=2021&basin=atl. The reports collected were from years 2016 through 2021.
 
+7. Hurricane Data (1851 - 2015)
+* The data that I used for the years listed above was collected from Kaggle and published on that website by the NOAA. The data can be found here: https://www.kaggle.com/datasets/noaa/hurricane-database
+
 ## Code
 1. File Name: Project_Code.R
 * This file contains all the code which I used in R to manipulate, visualize, and analyze the wind speed and pressure over time for hurricanes. 
