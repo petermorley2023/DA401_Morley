@@ -33,6 +33,9 @@ This file serves the purpose of file documentation and as a README for the files
 * Description: This file includes data regarding the average and maximum yearly wind speeds in 
              knots for the hurricanes within the Caribbean (1992 – 2021). 
 
+6. NHC Hurricane Reports
+* I decided not to attach all the hurricane reports that I collected data from to this repository since there are a total of 123 reports. Instead you can find the ones that were collected from the following URL, https://www.nhc.noaa.gov/data/tcr/index.php?season=2021&basin=atl. The reports collected were from years 2016 through 2021.
+
 ## Code
 1. File Name: Project_Code.R
 * File Type: R Script (.R)
