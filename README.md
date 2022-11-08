@@ -5,32 +5,31 @@
 ## Introduction
 This file serves the purpose of file documentation and as a README for the files in this GitHub. The project that I conducted was regarding hurricane analysis with a focus on time series and location analysis. Within this folder, you can find files regarding the data that I collected and used, code, as well as other important documents. The version of R used for the code is version 4.2.1. The version Python used for the location code was Python 3 which was used in a Jupyter Notebook. All other files are PDFs or CSVs so they should be accessible from any computer. 
 
+## Needed Packages:
+1. R: dplyr (v1.0.10), ggplot2 (v3.4), grid (v4.3.0), pracma (v2.4.2)
+2. Python3/Jupyter Notebook: numpy (v1.23), pandas (v1.5.1), seaborn (v0.12.1), matplotlib (v3.6.0), contextily, pointpats (v2.1.1)
+
 
 ## Data
 1. File Name: caribbean_hurricanes.csv
-- File Type: CSV 
-- Description: This file is the filtered-down data that includes all hurricanes that fit my inclusion 
+* This file is the filtered-down data that includes all hurricanes that fit my inclusion 
              criterion (latitude & longitude limits) for the Caribbean. 
 
 2. File Name: clean_all_hurricanes.csv
-* File Type: CSV
-* Description: This file includes all hurricane data provided by the NOAA that I have cleaned. 
+* This file includes all hurricane data provided by the NOAA that I have cleaned. 
              This data ranges from 1851 through 2021 and has not been filtered down so all data 
              is present. 
 
 3. File Name: hurricane_counts.csv
-* File Type: CSV
-* Description: This file includes data regarding the total yearly hurricane counts within the 
+* This file includes data regarding the total yearly hurricane counts within the 
              Caribbean (1851 – 2021). 
 
 4. File Name: yearly_pressures.csv
-* File Type: CSV
-* Description: This file includes data regarding the average minimum pressure and the minimum 
+* This file includes data regarding the average minimum pressure and the minimum 
              pressure within the Caribbean (1992 – 2021). 
 
 5. File Name: yearly_winds.csv
-* File Type: CSV
-* Description: This file includes data regarding the average and maximum yearly wind speeds in 
+* This file includes data regarding the average and maximum yearly wind speeds in 
              knots for the hurricanes within the Caribbean (1992 – 2021). 
 
 6. NHC Hurricane Reports
@@ -38,20 +37,16 @@ This file serves the purpose of file documentation and as a README for the files
 
 ## Code
 1. File Name: Project_Code.R
-* File Type: R Script (.R)
-* Description: This file contains all the code which I used to manipulate, visualize, and analyze the wind speed and pressure over time for hurricanes. 
+* This file contains all the code which I used to manipulate, visualize, and analyze the wind speed and pressure over time for hurricanes in R. 
 
 2. File Name: Location_Data.ipynb
-* File Type: Jupyter Notebook (.ipynb)
-* Description: This file contains all the code which I used to manipulate, visualize, and analyze the location data for hurricanes. 
+* This file contains all the code which I used to manipulate, visualize, and analyze the location data for hurricanes in Jupyter Notebooks/Python3. 
 
 ## Important Documents
 1. File Name: Final Paper.pdf
-* File Type: PDF document
-* Description: This file is my research paper which contains all information regarding domain review, methods of analysis, results, and conclusion. 
+* This file is my research paper which contains all information regarding domain review, methods of analysis, results, and conclusion. 
 
 2. File Name: Executive_Summary.pdf
-* File Type: PDF document
-* Description: This file is my executive summary which summarizes my project as a whole. In other words a one page version of my final paper.
+* This file is my executive summary which summarizes my project as a whole. In other words a one page version of my final paper.
 
 
