@@ -8,8 +8,8 @@ This file serves the purpose of file documentation and as a README for the files
 
 ## Data
 1. File Name: caribbean_hurricanes.csv
-** File Type: CSV 
-** Description: This file is the filtered-down data that includes all hurricanes that fit my inclusion 
+- File Type: CSV 
+- Description: This file is the filtered-down data that includes all hurricanes that fit my inclusion 
              criterion (latitude & longitude limits) for the Caribbean. 
 
 2. File Name: clean_all_hurricanes.csv
