@@ -44,6 +44,6 @@ This file serves the purpose of file documentation and as a README for the files
 * This file is my research paper which contains all information regarding domain review, methods of analysis, results, and conclusion. 
 
 2. File Name: Executive_Summary.pdf
-* This file is my executive summary which summarizes my project as a whole. In other words a one page version of my final paper.
+* This file is my executive summary which summarizes my project as a whole. It includes a summary of the introduction, data, methods, results, and recommendations found in the Final Paper.pdf file.
 
 
