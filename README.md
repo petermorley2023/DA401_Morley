@@ -11,19 +11,19 @@ This file serves the purpose of file documentation and as a README for the files
 
 
 ## Data
-1. File Name: caribbean_hurricanes.csv
+1. File Name: caribbean_hurricanes.csv (2452 x 13)
 * This file is the filtered-down data that includes all hurricanes that fit my inclusion criterion (latitude & longitude limits) for the Caribbean. 
 
-2. File Name: clean_all_hurricanes.csv
+2. File Name: clean_all_hurricanes.csv (52884 x 12)
 * This file includes all hurricane data provided by the NOAA that I have cleaned and collected. This data ranges from 1851 through 2021 and has not been filtered down so all the data is present. 
 
-3. File Name: hurricane_counts.csv
+3. File Name: hurricane_counts.csv (172 x 6)
 * This file includes data regarding the total yearly hurricane counts within the Caribbean (1851 – 2021). This was created through code in the Project_Code.R file so you do not need to download this file unless you want to inspect it.
 
-4. File Name: yearly_pressures.csv
+4. File Name: yearly_pressures.csv (30 x 3)
 * This file includes data regarding the average minimum pressure and the minimum pressure within the Caribbean (1992 – 2021). This was created through code in the Project_Code.R file so you do not need to download this file unless you want to inspect it.
 
-5. File Name: yearly_winds.csv
+5. File Name: yearly_winds.csv (171 x 3)
 * This file includes data regarding the average and maximum yearly wind speeds in knots for the hurricanes within the Caribbean (1992 – 2021). This was created through code in the Project_Code.R file so you do not need to download this file unless you want to inspect it.
 
 6. NHC Hurricane Reports
