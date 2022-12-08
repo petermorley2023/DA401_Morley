@@ -3,9 +3,9 @@
 *Author*: Peter Morley
 
 ## Introduction
-This file serves the purpose of file documentation and as a README for the files in this GitHub. The project that I conducted was regarding hurricane analysis with a focus on time series and location analysis. Within this folder, you can find files regarding the data that I collected and used, code, as well as other important documents. The version of R used for the code is version 4.2.1. The version Python used for the location code was Python 3 which was used in a Jupyter Notebook. All other files are PDFs or CSVs so they should be accessible from any computer. 
+This file serves the purpose of file documentation and as a README for the files in this GitHub. The project that I conducted was regarding hurricane analysis with a focus on time series and location analysis. Within this folder, you can find files regarding the data that I collected and used, code, as well as other important documents. The version of R used for the code is version 4.2.1. The version Python used for the location code was Python 3 which was used in a Jupyter Notebook. All other files are PDFs or CSVs so they should be accessible from any computer. The types of analysis conducted were time-series analysis using graphs, one-way ANOVA tests, and summary statistics. Additionally, I will also use quadrat count analysis as well as the use of maps to do my locaiton analysis. 
 
-## Needed Packages:
+## Needed Packages
 1. R: dplyr (v1.0.10), ggplot2 (v3.4), grid (v4.3.0), pracma (v2.4.2)
 2. Python3/Jupyter Notebook: numpy (v1.23), pandas (v1.5.1), seaborn (v0.12.1), matplotlib (v3.6.0), contextily, pointpats (v2.1.1)
 
